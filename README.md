@@ -12,3 +12,5 @@ https://cam-cole.github.io/run-buddy/
 
 ## Contribution
 Made by Cam Cole
+
+### ©️2019 Run Buddy, Inc 
